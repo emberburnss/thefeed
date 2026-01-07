@@ -1,0 +1,353 @@
+#heading {
+    text-align: center;
+    text-shadow: black 5px 3px;
+}
+
+#headingh1 {
+    color: #feb417;
+}
+
+
+#heading, h3 {
+    font-family: monospace;
+    font-size: 30pt;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60pt;
+    color: #eb4929;
+}
+
+#enter {
+    height: 775px;
+    width: 1100px;
+    display: inline;
+}
+
+#enterdiv {
+    text-align: center;
+}
+
+#back {
+    height: 100px;
+    width: 200px;
+}
+
+body {
+    background-image: url(img/lavalake.jpg);
+}
+
+#canva {
+    text-align: center;
+    border-bottom: #eb4929 ridge 20px;
+}
+
+#canvapic {
+   height: 500px;
+   width: 700px; 
+   border-radius: 10px;
+}
+
+#canvamov {
+    height: 500px;
+    width: 700px;  
+    border-radius: 10px;
+}
+
+#gcal {
+   text-align: center;
+   border-bottom: #f99012 ridge 20px; 
+}
+
+#gcalpic {
+    height: 500px;
+    width: 700px; 
+    border-radius: 10px;
+}
+
+#gcalpic2 {
+    height: 550px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#gcalmov {
+    height: 550px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#gapps {
+    text-align: center;
+    border-bottom: #feb417 ridge 20px;
+}
+
+#gappspic {
+    height: 500px;
+    width: 700px; 
+    border-radius: 10px;
+}
+
+#grme {
+    text-align: center;
+    border-bottom: #eb4929 ridge 20px;
+}
+
+#grmepic {
+    height: 550px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#grmepic2 {
+    height: 550px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#ig {
+    text-align: center;
+    border-bottom: #f99012 ridge 20px;
+}
+
+#iglogo {
+    height: 550px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+
+#igan {
+    height: 550px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+
+#note {
+    text-align: center;
+    border-bottom: #feb417 ridge 20px;   
+}
+
+#notepic {
+    height: 500px;
+    width: 700px; 
+    border-radius: 10px;
+}
+
+#pint {
+    text-align: center;
+    border-bottom: #eb4929 ridge 20px;
+}
+
+#pintpic{
+    height: 550px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+
+#pintmov {
+    height: 550px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+
+#spot {
+    text-align: center;
+    border-bottom: #f99012 ridge 20px;
+}
+
+#spotfeed {
+    height: 550px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#spotpic {
+    height: 550px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#tra {
+    text-align: center;
+    border-bottom: #feb417 ridge 20px;
+}
+
+#transitpic {
+    height: 550px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#transitroute {
+    height: 550px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#appw {
+    text-align: center;
+}
+
+#watchdnd {
+    height: 400px;
+    width: 400px;
+    border-radius: 70px;
+}
+
+#watchout {
+    height: 400px;
+    width: 400px;
+    border-radius: 70px;
+}
+
+#mainfeed {
+    display: flex;
+    flex-direction: column;
+    border: 10px solid #feb417;
+    border-radius: 10px;
+    background-image: url(img/obsidian.jpg);
+    width: 70pc;
+    align-items: center;
+    margin-left: 100px;
+    padding: 20px;
+    height: 1080px;
+    overflow: scroll;
+}
+
+#leftmenu {
+    display: flex;
+    flex-direction: column;
+    width: 40pc;
+    border: 10px solid #f99012;
+    border-radius: 10px;
+    background-image: url(img/obsidian.jpg);
+    align-items: top;
+    padding: 20px;
+    padding-left: 10px;
+    flex-wrap:nowrap;
+    margin-left: 50px;
+    height: 1080px;
+    overflow: scroll;
+}
+
+#lefth1 {
+    font-size: 40pt;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#plistlink {
+    text-align: center;
+    font-size: 20pt;
+}
+
+#menufeed {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    align-items: left;
+    
+}
+
+body {
+    font-family: monospace;
+    font-size: 20pt;
+    color: #fffffe;
+    text-shadow: #000000 3px 2px;
+    cursor: crosshair;
+}
+
+#leftsza2 {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
+
+#leftalex {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
+
+#leftdoe {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
+
+#leftari1 {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
+
+#leftsza {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
+
+#leftbillie {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
+
+#leftsade {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
+
+#leftkali {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
+
+#leftari2 {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
+
+#leftsault {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
+
+#leftbadu {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
+
+#leftjill {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
+
+#leftamy {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
+
+#leftbilal {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
+
+#leftmoon {
+    height: 1080px;
+    width: 480px;
+    border-radius: 10px;
+}
